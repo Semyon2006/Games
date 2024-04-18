@@ -1,0 +1,4 @@
+<li><a href="https://chrome-dino-game.github.io/">DINO</a></li>
+<li><a href="https://snake-games.io/">SNAKE</a></li>
+<li><a href="https://idevm.github.io/XO/">KRESTIKI_NOLIKI</a></li>
+<li><a href="https://logic-games.spb.ru/checkers/?lang=ru%27">CHECKERS AND MORE LOGIC GAMES</a></li>

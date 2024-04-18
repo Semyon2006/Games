@@ -1,0 +1,155 @@
+html {
+	background-image: url(Images/sex.jpg)
+}
+
+body {
+	color:00BFFF;
+	font-family:Ubuntu;
+}
+
+.htxt {
+	color:00BFFF;
+	font-family: Console;
+	font-weight: bold;
+	cursor: default;
+	position: relative;
+}
+
+h2 {
+	font-size: xxx-large;
+	text-shadow: #000066 4px 4px;
+	color: white;
+	cursor: default;
+	position: relative;
+	top: 60px;
+}
+
+.modal {
+	display: none;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal-content {
+	background-color: #A2D8DE;
+	margin: 10% auto;
+	padding: 20px;
+	border: 1px solid #888;
+	border-radius: 20px;
+	width: 700px;
+	height: 350px;
+
+}
+
+.close {
+	color: #357F87;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.Button {
+	cursor: pointer;
+	position: relative;
+	top: 100px;
+	width: 300px;
+	height: 95px;
+	background-color: #54E5D6;
+	color: #0B211F;
+	font-weight: bold;
+	font-size: xxx-large;
+	font-family: Ubuntu;
+	border: 7px solid #0F027D;
+	border-radius: 15px;
+	letter-spacing: 3px;
+}
+
+.BtnStyle1 {
+	width: 290px;
+	height: 130px;
+	position: relative;
+	top: 20px;
+	left: 30px;
+	border: 4px solid #1C356C;
+	border-radius: 15px;
+	cursor: pointer;
+	font-family: Ubuntu;
+	font-size: xxx-large;
+	font-weight: bold;
+	background-color: #B4FB9F;
+}
+
+.BtnStyle2 {
+	width: 290px;
+	height: 130px;
+	position: relative;
+	top: 20px;
+	left: 60px;
+	border: 4px solid #1C356C;
+	border-radius: 15px;
+	cursor: pointer;
+	font-family: Ubuntu;
+	font-size: xxx-large;
+	font-weight: bold;
+	background-color: #B4FB9F;
+}
+
+.BtnStyle3 {
+	width: 290px;
+	height: 130px;	
+	position: relative;
+	top: 50px;
+	left: 30px;
+	border: 4px solid #1C356C;
+	border-radius: 15px;
+	cursor: pointer;
+	font-family: Ubuntu;
+	font-size: xxx-large;
+	font-weight: bold;
+	background-color: #B4FB9F;
+}
+
+.BtnStyle4 {
+	width: 290px;
+	height: 130px;
+	position: relative;
+	top: 50px;
+	left: 60px;
+	border: 4px solid #1C356C;
+	border-radius: 15px;
+	cursor: pointer;
+	font-family: Ubuntu;
+	font-size: xxx-large;
+	font-weight: bold;
+	background-color: #B4FB9F;
+}
+
+.BtnSV {
+	width: 72px;
+	height: 72px;
+	position: relative;
+	top: 150px;
+	left: 50px;
+	background: url('Images/связь.png');
+	border: none;
+	cursor: pointer;
+	border: 4px solid #4adeff;
+	border-radius: 36px;
+}
+
+.Mail {
+	font-size: x-large;
+	font-weight: bold;
+	color: white;
+	position: relative;
+	top: 80px;
+	left: 150px;
+}
+

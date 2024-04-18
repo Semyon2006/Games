@@ -1,0 +1,31 @@
+html {
+	background-image: url(Images/Fon.jpg)
+}
+body {
+	color: FF99CC; 
+	font-family:"Consolas"; 
+	font-size: xx-large;
+}
+
+button {
+	padding: 20px 50px;
+	border:none;
+	outline:none;
+	border-radius:25px;
+	background-color:#333333;
+	cursor:pointer;
+	color:yellow;
+	font-weight:700;
+	font-size:30px;
+	letter-spacing:2px;
+	box-shadow:0px 5px 10px orange;
+}
+
+.Par {
+	font-family: Ubuntu;
+	font-weight: bold;
+	font-size: xxx-large;
+	position: relative;
+	top: 25px;
+}
+
